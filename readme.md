@@ -1,4 +1,4 @@
-# Desafio Projeto 2 - Treine me
+# Projeto 2 - Treine me
 
 Desafio do Stage 02 do curso Explorer.
 
